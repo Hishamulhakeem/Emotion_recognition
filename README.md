@@ -24,3 +24,7 @@ It consists of three main scripts: data preparation, model training, and real-ti
 1. **Prepare Data**
    ```bash
    python prepare_data.py
+
+## Install dependencies:
+   ```bash
+   pip install opencv-python numpy scikit-learn
