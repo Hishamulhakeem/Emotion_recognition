@@ -13,6 +13,13 @@ It consists of three main scripts: data preparation, model training, and real-ti
 
 ---
 
+## 📦 Requirements
+
+- Python 3.x
+- OpenCV
+- NumPy
+- scikit-learn
+
 ## 🚀 Usage
 1. **Prepare Data**
    ```bash
