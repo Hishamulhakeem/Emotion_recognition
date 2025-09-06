@@ -1,5 +1,3 @@
-# Emotion recognition
-
 # Facial Emotion Recognition
 
 This project detects human emotions (Happy, Sad, Surprised) from facial landmarks using a **Random Forest Classifier**.  
